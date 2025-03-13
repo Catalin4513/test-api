@@ -3,7 +3,7 @@ package types
 import (
 	"testing"
 
-	"overlock/testutil/sample"
+	"github.com/catalin4513/test-api/go/testutil/sample"
 
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	"github.com/stretchr/testify/require"
