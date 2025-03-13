@@ -3,7 +3,7 @@ package overlock.storage;
 
 import "overlock/crossplane/metadata.proto";
 
-option go_package = "github.com/catalin4513/test-api/go/overlock/x/storage/types";
+option go_package = "github.com/catalin4513/test-api/go/overlock/storage/types";
 
 // OCIRegistry
 message OCIRegistry {

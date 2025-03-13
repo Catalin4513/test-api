@@ -4,11 +4,11 @@ package overlock.crossplane;
 import "amino/amino.proto";
 import "gogoproto/gogo.proto";
 
-option go_package = "github.com/catalin4513/test-api/go/overlock/x/crossplane/types";
+option go_package = "github.com/catalin4513/test-api/go/overlock/crossplane/types";
 
 // Params defines the parameters for the module.
 message Params {
-  option (amino.name) = "overlock/x/crossplane/Params";
+  option (amino.name) = "overlock/crossplane/Params";
   option (gogoproto.equal) = true;
 
   

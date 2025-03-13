@@ -4,11 +4,11 @@ package overlock.storage;
 import "amino/amino.proto";
 import "gogoproto/gogo.proto";
 
-option go_package = "github.com/catalin4513/test-api/go/overlock/x/storage/types";
+option go_package = "github.com/catalin4513/test-api/go/overlock/storage/types";
 
 // Params defines the parameters for the module.
 message Params {
-  option (amino.name) = "overlock/x/storage/Params";
+  option (amino.name) = "overlock/storage/Params";
   option (gogoproto.equal) = true;
 
   
