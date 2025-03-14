@@ -1,7 +1,7 @@
 syntax = "proto3";
 package overlock.crossplane.v1beta1;
 
-option go_package = "github.com/web-seven/overlock-api/go/node/overlock/crossplane/v1beta1";
+option go_package = "github.com/catalin4513/test-api/go/node/overlock/crossplane/v1beta1";
 
 // Metadata contains metadata information.
 message Metadata {

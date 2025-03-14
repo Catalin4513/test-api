@@ -6,7 +6,7 @@ package v1beta1
 import (
 	fmt "fmt"
 	proto "github.com/cosmos/gogoproto/proto"
-	v1beta1 "github.com/web-seven/overlock-api/go/node/overlock/crossplane/v1beta1"
+	v1beta1 "github.com/catalin4513/test-api/go/node/overlock/crossplane/v1beta1"
 	io "io"
 	math "math"
 	math_bits "math/bits"
